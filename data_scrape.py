@@ -5,24 +5,6 @@ Created on Wed May 13 12:58:19 2020
 @author: Jason
 """
 
-# NBA Salary Predictions
-# Do player performance determine player salary?
-# If so, what metric do players tend to be evaluated on for their salaries?
-# What is the most deterministic salaray statistic for players?
-
-
-# Scrape data from web (utilizing pandas read_html)
-# Data clean
-# Data Viz
-# Model Build
-# Multiple Linear Regression
-# Lasso Regression
-# Cross Validations
-# Random Forest Regression
-# GridSearch
-# Tune Model
-# Model Comparison
-
 import pandas as pd
 import numpy as np
 import os
