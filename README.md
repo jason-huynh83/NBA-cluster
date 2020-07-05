@@ -3,7 +3,7 @@
 - NBA players were grouped together based on their stats provided from: [Basketball Reference](https://www.basketball-reference.com/leagues/NBA_2020_per_game.html) 
 
 ## Code and Resources Used
-- Python Version 3.8
+- Python Version 3.7
 - Jupyter Notebook, Spyder
 - [Basketball Reference](https://www.basketball-reference.com/leagues/NBA_2020_per_game.html) 
 
