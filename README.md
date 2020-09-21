@@ -75,3 +75,7 @@
 	- It clusters PF's who have a higher shooting percentage, e.g. Lauri Markkanen and Marc Gasol.
 ![](Images/Cluster2.PNG)
 
+## Anomaly Detection
+- Using a Multivariate Gaussian Distribution, I was able to identify outliers within the dataset.
+- The picture shown below highlights players who are anomalous, and a deeper understanding on why they are anomalous can be found within the jupyter notebook.
+![](Images/Anomalies.PNG)
